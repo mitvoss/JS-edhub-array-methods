@@ -14,7 +14,7 @@ const inventors = [
   { first: 'Lise', last: 'Meitner', year: 1878, passed: 1968 },
   { first: 'Thomas', last: 'Edison', year: 1847, passed: 1931 }
 ];
-/*test*/
+/*asdasd*/
 // 1. Filter de lijst op uitvinders die geboren zijn in de 16e eeuw
 // Verwachte uitkomst:
 // [{ first: 'Galileo', last: 'Galilei', year: 1564, passed: 1642 }, { first: 'Johannes', last: 'Kepler', year: 1571, passed: 1630 }]
